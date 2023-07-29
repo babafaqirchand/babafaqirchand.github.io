@@ -1,0 +1,43 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 12 * * *'
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'latest'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Set the domain
+        run: echo "DOMAIN=$(node -e 'console.log(new URL(require("./src/customizations/siteproperties.json").url).hostname)')" >> $GITHUB_ENV
+
+      - name: Add CNAME to dist
+        run: |
+          if [[ "${{ env.DOMAIN }}" != *.github.io ]]; then
+            echo ${{ env.DOMAIN }} > ./dist/CNAME
+          fi
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          branch: gh-pages
