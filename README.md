@@ -30,7 +30,7 @@ For the cover, I recommend you upload a cover image to the `public/images/books`
 
 When you edit files, make sure to save your changes, and within a few minutes, your changes should be reflected on the live site. (Note: if you've waited a few minutes and you don't see your changes, try pressing CTRL + F5 to clear the cache and refresh the page.)
 
-Note that blog posts will get scraped every night at midnight or any time you make changes to the site. So if you put a new post on Substack, it may not be reflected until the next day. If you want to force a refresh, you can go to the "Actions" tab on Github and click the "Run workflow" button. (Note that you will need to be logged in to Github to do this.)
+Note that blog posts will get scraped every night at midnight or any time you make changes to the site. So if you put a new post on Substack, it may not be reflected until the next day. If you want to force a refresh, you can go to the ["Build and Deploy" workflow page](https://github.com/babafaqirchand/babafaqirchand.github.io/actions/workflows/deploy.yml) and click the "Run workflow" button. (Note that you will need to be logged in to Github to do this.)
 
 ## Using a custom domain
 
