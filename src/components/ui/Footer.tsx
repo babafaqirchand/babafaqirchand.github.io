@@ -15,25 +15,18 @@ const Footer: React.FC = () => {
             <div className="footertoprow">
               <div className="footerleftside" />
               <div className="footerrightside">
-                  <div>
-                      <h2 className="footer-header">Navigation</h2>
-                      <ul>     
-                        <li className="mb-0 md:mb-4">
-                            <HashLink to="/#" className="footer-link">Home</HashLink>
-                        </li>
-                        <li>
-                            <HashLink to="/Blog#" className="footer-link">Blog</HashLink>
-                        </li>
-                      </ul>
-                  </div>
-                  <div>
-                      <h2 className="footer-header">Legal</h2>
-                      <ul>
-                          <li className="mb-0 md:mb-4">
-                              <HashLink to="/Legal#privacy" className="footer-link">Privacy Policy</HashLink>
-                          </li>
-                      </ul>
-                  </div>
+                <div>
+                    <HashLink to="/#" className="footer-link">Home</HashLink>
+                </div>
+                <div>
+                    <HashLink to="/Blog#" className="footer-link">Blog</HashLink>
+                </div>
+                <div>
+                    <HashLink to="/Books#" className="footer-link">Books</HashLink>
+                </div>
+                <div>
+                    <HashLink to="/Legal#privacy" className="footer-link">Privacy Policy</HashLink>
+                </div>
               </div>
           </div>
           <hr className="horizontaldivider" />

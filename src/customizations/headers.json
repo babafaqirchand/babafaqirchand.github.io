@@ -1,8 +1,13 @@
 [
     {
-        "id" : "books",
-        "title" : "Books",
-        "subtitle" : "The works of Baba Faqir Chand"
+        "id" : "Baba-Faqir-Chand-books",
+        "title" : "Books by Baba Faqir Chand",
+        "subtitle" : "In the original Hindi and in English translation"
+    },
+    {
+        "id" : "Maharishi-Shiv-Brat-Lal-Verman-books",
+        "title" : "Books by Maharishi Shiv Brat Lal Verman",
+        "subtitle" : "In the original Hindi and in English translation"
     },
     {
         "id" : "privacy",

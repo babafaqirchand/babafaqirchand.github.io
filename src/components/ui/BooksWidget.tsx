@@ -1,13 +1,11 @@
-import React, { useState, useEffect } from 'react';
-import booksData from '../../customizations/books.json';
+import React from 'react';
 import Book from '../../types/books';
 
-const BooksWidget: React.FC = () => {
-  const [books, setBooks] = useState<Book[]>([]);
+interface BooksWidgetProps {
+  books: Book[];
+}
 
-  useEffect(() => {
-    setBooks(booksData);
-  }, []);
+const BooksWidget: React.FC<BooksWidgetProps> = ({books}) => {
   
   return (
     <div>

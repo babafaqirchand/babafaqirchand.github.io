@@ -5,4 +5,5 @@ export default interface Book {
     detail_page_url: string;
     cover_url: string;
     pdf_url: string;
+    language: string;
   }
