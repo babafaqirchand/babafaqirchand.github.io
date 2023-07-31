@@ -1,20 +1,5 @@
 [
     {
-        "id" : "Baba-Faqir-Chand-books",
-        "title" : "Books by Baba Faqir Chand",
-        "subtitle" : "In the original Hindi and in English translation"
-    },
-    {
-        "id" : "Maharishi-Shiv-Brat-Lal-Verman-books",
-        "title" : "Books by Maharishi Shiv Brat Lal Verman",
-        "subtitle" : "In the original Hindi and in English translation"
-    },
-    {
-        "id" : "privacy",
-        "title" : "Privacy Policy",
-        "subtitle" : "Important disclosures about how we use your data"
-    },
-    {
         "id" : "biography_0",
         "title" : "Baba Faqir Chand",
         "subtitle" : "Indian master of Surat Shabd Yoga"
@@ -23,5 +8,20 @@
         "id" : "biography_1",
         "title" : "Maharishi Shiv Brat Lal Verman",
         "subtitle" : "Data Dayal Maharishi of Radha Soami"
+    },
+    {
+        "id" : "Baba-Faqir-Chand-books",
+        "title" : "Books by Baba Faqir Chand",
+        "subtitle" : "Downloadable for free in PDF"
+    },
+    {
+        "id" : "Maharishi-Shiv-Brat-Lal-Verman-books",
+        "title" : "Books by Maharishi Shiv Brat Lal Verman",
+        "subtitle" : "Downloadable for free in PDF"
+    },
+    {
+        "id" : "privacy",
+        "title" : "Privacy Policy",
+        "subtitle" : "Important disclosures about how we use your data"
     }
 ]
