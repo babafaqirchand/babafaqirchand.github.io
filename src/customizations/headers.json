@@ -20,8 +20,13 @@
         "subtitle" : "Downloadable for free in PDF"
     },
     {
+        "id" : "Other-Authors-books",
+        "title" : "Books by other authors",
+        "subtitle" : "Downloadable for free in PDF"
+    },
+    {
         "id" : "privacy",
-        "title" : "Privacy Policy",
+        "title" : "Privacy policy",
         "subtitle" : "Important disclosures about how we use your data"
     }
 ]
