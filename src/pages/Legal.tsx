@@ -1,11 +1,13 @@
 import React from 'react';
-import './Legal.css';
+import Section from '../components/ui/Section'
 import Privacy from '../components/ui/Privacy'
 
 const Legal: React.FC = () => {
     return(
         <main id="skip">
-            <Privacy />
+            <Section id="privacy">
+                <Privacy />
+            </Section>
         </main>
     )
 }

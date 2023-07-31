@@ -1,0 +1,8 @@
+/*Section.css*/
+section {
+    @apply mx-auto max-w-screen-xl object-contain;
+  }
+  
+  .sectioncontainer {
+    @apply mx-auto max-w-screen-xl text-left py-12 px-8 lg:py-24 lg:px-12;
+  }

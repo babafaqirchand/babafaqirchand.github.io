@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "books",
+        "title" : "Books",
+        "subtitle" : "The works of Baba Faqir Chand"
+    },
+    {
+        "id" : "privacy",
+        "title" : "Privacy Policy",
+        "subtitle" : "Important disclosures about how we use your data"
+    },
+    {
+        "id" : "biography_0",
+        "title" : "Baba Faqir Chand",
+        "subtitle" : "Indian master of Surat Shabd Yoga"
+    },
+    {
+        "id" : "biography_1",
+        "title" : "Maharishi Shiv Brat Lal Verman",
+        "subtitle" : "Data Dayal Maharishi of Radha Soami"
+    }
+]

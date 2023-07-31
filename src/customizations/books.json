@@ -1,13 +1,43 @@
 [
     {
-      "title": "The meditations of Marcus Aurelius",
-      "detail_page_url": "https://archive.org/details/meditationsofmar00marc",
-      "thumbnail_url": "https://archive.org/download/meditationsofmar00marc/__ia_thumb.jpg"
+      "title": "Riddles of Kabir",
+      "author": "Baba Faqir Chand",
+      "description" : "The spiritual riddles of Kabir are impossible to solve if one has not practically walked the path of Kabir. Some riddles even appear nonsensical at first glance. Deeper teachings of Kabir are heavily veiled in these riddles. Here, Baba Faqir Chand solves some key riddles on the basis of his personal experiences and realizations. The hidden Kabir is finally revealed so plainly and directly.",
+      "detail_page_url": "https://archive.org/details/KABIRBOOK2BABAFAQIR",
+      "cover_url": "images/books/RiddlesofKabirCover.jpg",
+      "pdf_url": "https://archive.org/download/KABIRBOOK2BABAFAQIR/KABIR%20BOOK%202%20-%20BABA%20FAQIR.pdf"
     },
     {
-      "title": "The meditations of Marcus Aurelius",
-      "detail_page_url": "https://archive.org/details/meditationsofmar00marc",
-      "thumbnail_url": "https://archive.org/download/meditationsofmar00marc/__ia_thumb.jpg"
+      "title": "Faqir on Kabir (Hindi)",
+      "author": "Baba Faqir Chand",
+      "description" : "This book is a compilation of Baba Faqir Chand's discourses on select poems of Kabir based on his experience. Kabir's poetry is complex and often hides his sublime teachings. Baba Faqir Chand shares his experiences and insights in the light of these poems and in the process Kabir's hidden meaning is revealed in a direct way.",
+      "detail_page_url": "https://archive.org/details/KABIRBOOK1BABAFAQIR",
+      "cover_url": "images/books/FaqironKabirCover.jpg",
+      "pdf_url": "https://archive.org/download/KABIRBOOK1BABAFAQIR/KABIR%20BOOK%201%20-%20BABA%20FAQIR.pdf"
+    },
+    {
+      "title": "The True Path of Being Human (Hindi)",
+      "author": "Baba Faqir Chand",
+      "description" : "This book is considered the magnum opus of Baba Faqir Chand's teachings for humanity and his vision of spiritual humanism. If you read no other book by Baba Faqir, read this book! We'll make every effort to translate this book into English as well.",
+      "detail_page_url": "https://archive.org/details/true-human-religion",
+      "cover_url": "images/books/TheTruePathofBeingHuman.jpg",
+      "pdf_url": "https://archive.org/download/true-human-religion/True%20Human%20Religion.pdf"
+    },
+    {
+      "title": "Twelve Months (Barah Masa): A Spiritual Commentary (Hindi)",
+      "author": "Baba Faqir Chand",
+      "description" : "Barah Masa, which translates to 'Twelve Months', is an ancient poetic form used by mystics of India and Persia. The Barah Masa hymns are not mere descriptions of the changing seasons but also carry deeper spiritual messages. Radhaswami Shiv Dayal also composed Barah Masa to express his spiritual message. This book is the first known commentary of this mystical work. Baba Faqir Chand clarifies the meaning of Radhaswami Dayal's poetry on the basis of his own experiences and insights.",
+      "detail_page_url": "https://archive.org/details/twelve-months-final-merged",
+      "cover_url": "images/books/Twelve_months_final_merged.jpg",
+      "pdf_url": "https://archive.org/download/twelve-months-final-merged/Twelve%20months%20final_merged.pdf"
+    },
+    {
+      "title": "RadhaSwami Yog (Hindi)",
+      "author": "Maharishi Shiv Brat Lal Verman",
+      "description" : "RadhaSwami Yog written by Data Dayal Maharishi Shiv Brat Lal Verman has the complete spiritual and philosophical teachings of the path of saints and mystics as revealed by Radhaswami Dayal. This title was originally published in 6 volumes. This is a facsimile of all 6 volumes in one place.",
+      "detail_page_url": "https://archive.org/details/radhaswami-yog",
+      "cover_url": "images/books/RadhaswamiYog.jpg",
+      "pdf_url": "https://archive.org/download/radhaswami-yog/Radhaswami%20Yog%20%28Cover%2BComplete%29.pdf"
     }
   ]
   

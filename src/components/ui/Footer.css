@@ -1,4 +1,4 @@
-.footer {@apply bg-light-background dark:bg-dark-background bottom-0 border-t border-gray-500 w-full z-50 shadow-center}
+.footer {@apply bg-light-background dark:bg-dark-background bottom-0 w-full}
 
 .footercontents {@apply mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8}
 
@@ -12,8 +12,8 @@
 
 .footerbottomrow {@apply sm:flex sm:items-center sm:justify-between}
 
-.copyrighttext {@apply text-sm sm:text-center}
+.copyrighttext {@apply text-sm text-dark-text sm:text-center}
 
-.copyrighttext a {@apply hover:underline hover:text-light-nav-hover}
+.copyrighttext a {@apply hover:underline hover:text-dark-nav-hover}
 
 .socialicons {@apply flex mt-4 space-x-6 sm:justify-center sm:mt-0}

@@ -1,4 +1,5 @@
 import SocialProfiles from './socialprofiles';
+import HeroImage from './hero';
   
 interface Robots {
     index: boolean;
@@ -12,12 +13,11 @@ interface SiteProperties {
     shortDescription: string;
     longDescription: string;
     keywords: string[];
+    heroImage: HeroImage;
     socialCards: string[];
     favicon: string;
     robots: Robots;
-    calendlyUrl: string;
     substackUrl: string;
-    callToAction: string;
     socialProfiles: SocialProfiles;
 }
 

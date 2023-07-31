@@ -1,0 +1,26 @@
+.herocontainer {
+  @apply flex min-h-screen text-dark-text relative overflow-hidden justify-center items-end;
+}
+
+/* Change opacity to 25 to apply darkening effect */
+.herocontainer::after {
+  content: "";
+  @apply bg-gradient-to-t from-black to-transparent absolute inset-0;
+}
+
+.text-container {
+  @apply px-4 py-4 mx-4 my-4 z-10 relative bg-opacity-75 text-center rounded;
+}
+
+.background {
+  @apply w-full h-full absolute object-cover pointer-events-none;
+}
+
+#down-arrow {
+  @apply inline-flex justify-center md:justify-end;
+}
+
+
+#down-arrow a {
+  @apply text-dark-text;
+}

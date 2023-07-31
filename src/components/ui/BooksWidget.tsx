@@ -1,11 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import booksData from '../../customizations/books.json';
-
-export interface Book {
-  title: string;
-  detail_page_url: string;
-  thumbnail_url: string;
-}
+import Book from '../../types/books';
 
 const BooksWidget: React.FC = () => {
   const [books, setBooks] = useState<Book[]>([]);
@@ -18,11 +13,16 @@ const BooksWidget: React.FC = () => {
     <div>
       {books.map((book, index) => (
         <div key={index} style={{ marginBottom: "20px" }}>
-          <h2>{book.title}</h2>
           <a href={book.detail_page_url}>
-            <img src={book.thumbnail_url} alt={book.title} style={{ width: "100px" }} />
+            <img src={book.cover_url} alt={book.title} style={{ width: "200px", float: "left", marginRight: "20px" }} />
           </a>
-          <p><a href={book.detail_page_url}>Read More</a></p>
+          <p><strong>Title:</strong> {book.title}</p>
+          <p><strong>Author:</strong> {book.author}</p>
+          <p><strong>Description:</strong> {book.description}</p>
+          <a href={book.pdf_url}>
+            <button>Download</button>
+          </a>
+          <div style={{ clear: "both" }}></div>
         </div>
       ))}
     </div>
