@@ -14,12 +14,14 @@ const BooksWidget: React.FC<BooksWidgetProps> = ({books}) => {
           <a href={book.detail_page_url}>
             <img src={book.cover_url} alt={book.title} style={{ width: "200px", float: "left", marginRight: "20px" }} />
           </a>
-          <p><strong>Title:</strong> {book.title}</p>
-          <p><strong>Author:</strong> {book.author}</p>
-          <p><strong>Description:</strong> {book.description}</p>
+          {book.title && <p><strong>Title:</strong> {book.title}</p>}
+          {book.author && <p><strong>Author:</strong> {book.author}</p>}
+          {book.description && <p><strong>Description:</strong> {book.description}</p>}
+          {book.pdf_url && 
           <a href={book.pdf_url}>
             <button>Download</button>
           </a>
+          }
           <div style={{ clear: "both" }}></div>
         </div>
       ))}
