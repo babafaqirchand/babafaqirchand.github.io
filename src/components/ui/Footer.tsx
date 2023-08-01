@@ -15,16 +15,16 @@ const Footer: React.FC = () => {
             <div className="footertoprow">
               <div className="footerleftside" />
               <div className="footerrightside">
-                <div>
+                <div className="flex justify-center">
                     <HashLink to="/#" className="footer-link">Home</HashLink>
                 </div>
-                <div>
+                <div className="flex justify-center">
                     <HashLink to="/Blog#" className="footer-link">Blog</HashLink>
                 </div>
-                <div>
+                <div className="flex justify-center">
                     <HashLink to="/Books#" className="footer-link">Books</HashLink>
                 </div>
-                <div>
+                <div className="flex justify-center">
                     <HashLink to="/Legal#privacy" className="footer-link">Privacy Policy</HashLink>
                 </div>
               </div>
@@ -32,7 +32,7 @@ const Footer: React.FC = () => {
           <hr className="horizontaldivider" />
           <div className="footerbottomrow">
               <span className="copyrighttext">
-                © 2023 <HashLink to="/#" className="footer-link text-sm font-normal" >{properties.author}</HashLink>. All Rights Reserved.
+                © 2023 <HashLink to="/#" className="footer-link-sm" >{properties.author}</HashLink>. All Rights Reserved.
               </span>
               <div className="socialicons">
                 {Object.entries(properties.socialProfiles).map(([key, value]) => {

@@ -26,8 +26,8 @@ const Hero: React.FC<HeroProps> = ({ hero, title, subtitle }) => {
         alt={hero.alt}
       />
       <div className="text-container">
-        <h1>{title}</h1>
-        <h2>{subtitle}</h2>
+        <h1 className="text-6xl">{title}</h1>
+        <h2 className="text-2xl">{subtitle}</h2>
         <div id="down-arrow">
           <HashLink to="/#biographies">
             <DownArrow />

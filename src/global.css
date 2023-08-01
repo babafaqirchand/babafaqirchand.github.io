@@ -42,7 +42,7 @@ a {
 }
 
 .nav-link {
-  @apply text-light-nav-text dark:text-dark-nav-text hover:text-light-nav-hover dark:hover:text-dark-nav-hover font-medium hover:underline;
+  @apply text-light-nav-text dark:text-dark-nav-text hover:text-light-nav-hover dark:hover:text-dark-nav-hover text-xl font-bold hover:underline;
 }
 
 .footer-link svg {
@@ -50,8 +50,13 @@ a {
 }
 
 .footer-link {
-  @apply text-dark-nav-text dark:text-dark-nav-text hover:text-dark-nav-hover dark:hover:text-dark-nav-hover font-medium hover:underline;
+  @apply text-dark-nav-text dark:text-dark-nav-text hover:text-dark-nav-hover dark:hover:text-dark-nav-hover text-xl font-bold hover:underline;
 }
+
+.footer-link-sm {
+  @apply text-dark-nav-text dark:text-dark-nav-text hover:text-dark-nav-hover dark:hover:text-dark-nav-hover text-sm font-bold hover:underline;
+}
+
 
 p {
   @apply mb-4 text-base lg:text-lg;
