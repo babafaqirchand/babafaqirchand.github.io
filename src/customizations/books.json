@@ -93,9 +93,18 @@
       "title": "Greatness of the Guru (Guru As Wisdom)",
       "author": "Baba Faqir Chand",
       "description" : "Guru Mahima is a compilation of discourses by Param Dayal Faqir Chand Maharaj on the nature of true wisdom called Guru and the greatness of true knowledge and wisdom in living a happy, peaceful life.",
-      "detail_page_url": "https://archive.org/details/guru-mahima/mode/2up",
+      "detail_page_url": "https://archive.org/details/guru-mahima/",
       "cover_url": "images/books/GuruMahima.jpg",
       "pdf_url": "https://archive.org/download/guru-mahima/Guru%20Mahima%20.pdf",
+      "language": "Hindi"
+    },
+    {
+      "title": "Spiritual Discourses of Manav Dayal",
+      "author": "Manav Dayal Dr. Ishwar Chandra Sharma",
+      "description" : "A collection of spiritual talks (Satsang) by Manav Dayal Dr. I.C. Sharma, a philosopher-saint, and one of the chief disciples and successors of Baba Faqir Chand",
+      "detail_page_url": "https://archive.org/details/GURUUPDESHAMANAVDAYALSATSANG/",
+      "cover_url": "images/books/SpiritualManav.jpg",
+      "pdf_url": "https://archive.org/download/GURUUPDESHAMANAVDAYALSATSANG/GURU%20UPDESHA%20-%20MANAV%20DAYAL%20SATSANG.pdf",
       "language": "Hindi"
     }
   ]
