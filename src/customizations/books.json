@@ -70,7 +70,7 @@
       "cover_url": "images/books/UnknowingSage.jpg",
       "pdf_url": "https://www.amazon.com/The-Unknowing-Sage-audiobook/dp/B01EBASEDO/",
       "language": "English"
-},
+    },
     {
       "title": "Baba Faqir Chand's Illuminations: The London Satsangs of 1980 (Audiobook)",
       "author": "Baba Faqir Chand",
@@ -79,6 +79,6 @@
       "cover_url": "images/books/LondonSatsang.jpg",
       "pdf_url": "https://www.amazon.com/Baba-Faqir-Chands-Illuminations-Satsangs/dp/B07JG3DRJ8/",
       "language": "English"
-}
+    }
   ]
   
