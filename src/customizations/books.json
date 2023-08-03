@@ -124,6 +124,24 @@
       "cover_url": "images/books/AdvaitSiddhant.jpg",
       "pdf_url": "https://archive.org/download/AdvaitSiddhantFile/Advait%20Siddhant%20file.pdf",
       "language": "Hindi"
+    },
+    {
+      "title": "Shiv Shabad Sagar (Book One of Two)",
+      "author": "Maharishi Shiv Brat Lal Verman",
+      "description" : "Poetry of Data Dayal Maharishi Shiv Brat Lal Verman. This is Book 1 of 2.",
+      "detail_page_url": "https://archive.org/details/shiv-shabd-sagar-1-compressed-compressed",
+      "cover_url": "images/books/MaharishiPoems1.jpg",
+      "pdf_url": "https://archive.org/download/shiv-shabd-sagar-1-compressed-compressed/Shiv%20Shabd%20Sagar%201-compressed_compressed.pdf",
+      "language": "Hindi"
+    },
+     {
+      "title": "Shiv Shabad Sagar (Book Two)",
+      "author": "Maharishi Shiv Brat Lal Verman",
+      "description" : "Poetry of Data Dayal Maharishi Shiv Brat Lal Verman. This is Book 2 of 2.",
+      "detail_page_url": "https://archive.org/details/shiv-shabd-sagar-2-compressed",
+      "cover_url": "images/books/MaharishiPoems2.jpg",
+      "pdf_url": "https://archive.org/download/shiv-shabd-sagar-2-compressed/Shiv%20Shabd%20Sagar%202%20-compressed.pdf",
+      "language": "Hindi"
     }
   ]
   
