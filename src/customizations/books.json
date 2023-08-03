@@ -133,6 +133,24 @@
       "cover_url": "images/books/MaharishiPoems2.jpg",
       "pdf_url": "https://archive.org/download/shiv-shabd-sagar-2-compressed/Shiv%20Shabd%20Sagar%202%20-compressed.pdf",
       "language": "Hindi"
+    },
+    {
+      "title": "Dayal Sandesh",
+      "author": "Maharishi Shiv Brat Lal Verman",
+      "description" : "Select excerpts from the writings of Maharishi Shiv Brat Lal Verman",
+      "detail_page_url": "https://archive.org/details/dayal-sandesh",
+      "cover_url": "images/books/DayalSandesh.jpg",
+      "pdf_url": "https://archive.org/download/dayal-sandesh/Dayal%20Sandesh%20File.pdf",
+      "language": "Hindi"
+    },
+    {
+      "title": "Ansh Pooran Yog",
+      "author": "Baba Faqir Chand",
+      "description" : "This is a commentary by Baba Faqir Chand on the Hidayatnama (The Book of Instructions) of Radhaswami Dayal",
+      "detail_page_url": "https://archive.org/editxml/ansh-pooran-yog",
+      "cover_url": "images/books/PooranYog.jpg",
+      "pdf_url": "https://archive.org/download/ansh-pooran-yog/Ansh-Pooran%20Yog.pdf",
+      "language": "Hindi"
     }
   ]
   
