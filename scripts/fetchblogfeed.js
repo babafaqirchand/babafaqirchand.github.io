@@ -14,6 +14,7 @@ async function fetchRssFeed() {
     }
 
     const feedData = await response.text();
+    console.log('Fetched RSS Feed:', feedData);
 
     // Verify that the fetched data is valid
     if (!feedData || typeof feedData !== 'string') {
@@ -31,6 +32,7 @@ async function fetchRssFeed() {
     console.log('RSS feed saved successfully!');
   } catch (error) {
     console.error('Error fetching RSS feed:', error);
+    process.exit(1);
   }
 }
 
