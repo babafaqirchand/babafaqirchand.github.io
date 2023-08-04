@@ -1,4 +1,13 @@
-[
+[ 
+    {
+      "title": "The True Path of Being Human",
+      "author": "Baba Faqir Chand",
+      "description" : "This book is considered the magnum opus of Baba Faqir Chand's teachings for humanity and his vision of spiritual humanism. If you read no other book by Baba Faqir, read this book! We'll make every effort to translate this book into English as well.",
+      "detail_page_url": "https://archive.org/details/true-human-religion",
+      "cover_url": "images/books/TheTruePathofBeingHuman.jpg",
+      "pdf_url": "https://archive.org/download/true-human-religion/True%20Human%20Religion.pdf",
+      "language": "Hindi"
+    },
     {
       "title": "Riddles of Kabir",
       "author": "Baba Faqir Chand",
@@ -15,15 +24,6 @@
       "detail_page_url": "https://archive.org/details/KABIRBOOK1BABAFAQIR",
       "cover_url": "images/books/FaqironKabirCover.jpg",
       "pdf_url": "https://archive.org/download/KABIRBOOK1BABAFAQIR/KABIR%20BOOK%201%20-%20BABA%20FAQIR.pdf",
-      "language": "Hindi"
-    },
-    {
-      "title": "The True Path of Being Human",
-      "author": "Baba Faqir Chand",
-      "description" : "This book is considered the magnum opus of Baba Faqir Chand's teachings for humanity and his vision of spiritual humanism. If you read no other book by Baba Faqir, read this book! We'll make every effort to translate this book into English as well.",
-      "detail_page_url": "https://archive.org/details/true-human-religion",
-      "cover_url": "images/books/TheTruePathofBeingHuman.jpg",
-      "pdf_url": "https://archive.org/download/true-human-religion/True%20Human%20Religion.pdf",
       "language": "Hindi"
     },
     {
