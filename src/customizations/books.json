@@ -117,7 +117,7 @@
       "language": "Hindi"
     },
      {
-      "title": "Dayal Sandesh",
+      "title": "Dayal Sandesh (Book One)",
       "author": "Maharishi Shiv Brat Lal Verman",
       "description" : "Select excerpts from the writings of Maharishi Shiv Brat Lal Verman",
       "detail_page_url": "https://archive.org/details/dayal-sandesh",
@@ -171,11 +171,11 @@
       "language": "English"
     },
     {
-      "title": "Spiritual Growth (Atmik Utkarsh)",
+      "title": "Dayal Sandesh: Spiritual Growth (Book Two)",
       "author": "Maharishi Shiv Brat Lal Verman",
       "description" : "Maharishi encourages us to see ourselves in the true light and live a fulfilled and wholesome life.",
       "detail_page_url": "https://archive.org/details/atmik-utkarsh-maharishi-shiv",
-      "cover_url": "images/books/SpiritualGrowth.jpg",
+      "cover_url": "images/books/DayalSandesh.jpg",
       "pdf_url": "https://archive.org/download/atmik-utkarsh-maharishi-shiv/Atmik%20Utkarsh%20-%20Maharishi%20Shiv%20.pdf",
       "language": "Hindi"
 }
