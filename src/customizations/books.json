@@ -151,6 +151,15 @@
       "cover_url": "images/books/PooranYog.jpg",
       "pdf_url": "https://archive.org/download/ansh-pooran-yog/Ansh-Pooran%20Yog.pdf",
       "language": "Hindi"
-    }
+    },
+    {
+      "title": "The Essence of Spiritual Experience (Anubhav Saar)",
+      "author": "Kuber Nath Srivastav, Maharishi Shiv Brat Lal Verman, Baba Faqir Chand",
+      "description" : "Anubhav Sar means the essence of experience. This book is a compilation of pithy spiritual sayings of Param Dayal Baba Faqir Chand, Maharishi Shiv Brat Lal Verman and Sant Kuber Nath Srivastav summarizing some key elements of their spiritual experience. Forward to the work is written by Baba Faqir Chand.",
+      "detail_page_url": "https://archive.org/details/anubhav-saar/",
+      "cover_url": "images/books/AnubhavSar.jpg",
+      "pdf_url": "https://archive.org/download/anubhav-saar/Anubhav%20Saar.pdf",
+      "language": "Hindi"
+}
   ]
   
