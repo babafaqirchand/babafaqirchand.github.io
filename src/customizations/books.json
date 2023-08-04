@@ -169,6 +169,16 @@
       "cover_url": "images/books/AnandYog.jpg",
       "pdf_url": "https://archive.org/download/light-on-ananda-yoga-organized/LightOnAnandaYoga_ORIGINAL_organized.pdf",
       "language": "English"
+    },
+    {
+      "title": "Spiritual Growth (Atmik Utkarsh)",
+      "author": "Maharishi Shiv Brat Lal Verman",
+      "description" : "Written with the Indian religious conditioning in mind, the spiritual message of Maharishi is found within these pages.",
+      "detail_page_url": "https://archive.org/details/atmik-utkarsh-maharishi-shiv",
+      "cover_url": "images/books/SpiritualGrowth.jpg",
+      "pdf_url": "https://archive.org/download/atmik-utkarsh-maharishi-shiv/Atmik%20Utkarsh%20-%20Maharishi%20Shiv%20.pdf",
+      "language": "Hindi"
 }
+
   ]
   
