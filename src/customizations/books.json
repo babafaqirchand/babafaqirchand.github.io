@@ -160,6 +160,15 @@
       "cover_url": "images/books/AnubhavSar.jpg",
       "pdf_url": "https://archive.org/download/anubhav-saar/Anubhav%20Saar.pdf",
       "language": "Hindi"
+    },
+    {
+      "title": "Light On Anand Yog",
+      "author": "Maharishi Shiv Brat Lal Verman",
+      "description" : "This is the original translation to English of this popular book by Maharishi Shiv.",
+      "detail_page_url": "https://archive.org/details/light-on-ananda-yoga-organized",
+      "cover_url": "images/books/AnandYog.jpg",
+      "pdf_url": "https://archive.org/download/light-on-ananda-yoga-organized/LightOnAnandaYoga_ORIGINAL_organized.pdf",
+      "language": "English"
 }
   ]
   
