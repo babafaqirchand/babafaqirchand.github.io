@@ -1,4 +1,3 @@
-import React from 'react';
 import Section from '../components/ui/Section';
 import TabbedBooks from '../components/ui/TabbedBooks';
 import booksData from '../customizations/books.json';

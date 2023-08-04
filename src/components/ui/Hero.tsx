@@ -1,5 +1,4 @@
 // Hero.tsx
-import React from 'react';
 import './Hero.css';
 import { HashLink } from 'react-router-hash-link';
 import DownArrow from './DownArrow';

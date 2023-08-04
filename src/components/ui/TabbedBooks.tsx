@@ -1,4 +1,3 @@
-import React from 'react';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import './TabbedBooks.css';
 import BooksWidget from './BooksWidget';
@@ -23,7 +22,7 @@ const TabbedBooks: React.FC<TabbedBooksProps> = ({ books }) => {
           const booksForLanguage = books.filter(book => book.language === language);
           return (
             <TabPanel key={language} className="mt-6">
-              {booksForLanguage.length > 0 && <BooksWidget books={booksForLanguage} />}
+              {booksForLanguage.length > 0 && <BooksWidget books={booksForLanguage} layoutType='columns' />}
             </TabPanel>
           )
         })}

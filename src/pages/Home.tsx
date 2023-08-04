@@ -1,4 +1,3 @@
-import React from 'react';
 import Hero from '../components/ui/Hero';
 import HeroImage from '../types/hero';
 import Section from '../components/ui/Section';

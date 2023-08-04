@@ -23,6 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
+# Dynamically scraped content
+src/components/ui/RssFeed.json
+
 # Python
 .venv
 venv

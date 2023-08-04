@@ -1,5 +1,5 @@
 //Section.tsx
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Header from './Header';
 import headerData from '../../customizations/headers.json';
 import HeaderData from '../../types/header';

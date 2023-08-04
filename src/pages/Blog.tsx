@@ -1,4 +1,3 @@
-import React from 'react';
 import BlogFeed from '../components/ui/BlogFeed';
 
 const Blog: React.FC = () =>{

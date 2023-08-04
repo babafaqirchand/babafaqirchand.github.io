@@ -1,4 +1,3 @@
-import React from 'react';
 import propertiesJSON from '../../customizations/siteproperties.json';
 import SiteProperties from '../../types/siteproperties';
 import { Link } from 'react-router-dom';

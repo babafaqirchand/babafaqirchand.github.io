@@ -1,10 +1,8 @@
-import React from 'react';
 import './Footer.css';
 import propertiesJSON from '../../customizations/siteproperties.json';
 import SiteProperties from '../../types/siteproperties';
 import SocialIcon from '../../components/logos/SocialIcon';
 import { HashLink } from 'react-router-hash-link';
-
 
 const Footer: React.FC = () => {
     const properties: SiteProperties = propertiesJSON;

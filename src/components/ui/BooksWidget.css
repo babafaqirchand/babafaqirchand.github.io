@@ -1,0 +1,27 @@
+.book-container {
+    @apply flex flex-col sm:flex-row mb-12;
+  }
+  
+  .book-img-container {
+    @apply sm:mr-5 flex-shrink-0 mb-5 sm:mb-0;
+  }
+  
+  .book-img {
+    @apply w-full sm:w-48;
+  }
+  
+  .book-detail {
+    @apply flex-grow;
+  }
+  
+  .wrap-book-container {
+    @apply mb-12;
+  }
+  
+  .wrap-book-img {
+    @apply w-48 float-left mr-5;
+  }
+  
+  .clear {
+    @apply clear-both;
+  }

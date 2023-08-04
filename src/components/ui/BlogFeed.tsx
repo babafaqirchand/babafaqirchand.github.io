@@ -1,4 +1,3 @@
-import React from 'react';
 import RssObject from '../../types/rssfeed';
 import { Link } from 'react-router-dom';
 import rssFeedJSON from './RssFeed.json';
@@ -20,7 +19,7 @@ const BlogFeed: React.FC = () => {
         <div className="contentcontainer">
           <div className="textcontainer">
           {Array.isArray(feedData?.rss?.channel?.item)
-          ? feedData?.rss?.channel?.item.slice(0, 2).map((item, index) => (
+          ? feedData?.rss?.channel?.item.slice(0, 5).map((item, index) => (
               <div key={index} className="blogtext mb-16 lg:md-24">
                 <Link to={item.link} className="text-xl font-bold">
                   Read this post on {feedData.rss.channel.generator}
@@ -41,7 +40,7 @@ const BlogFeed: React.FC = () => {
               </div>,
             ]}
           <a href={properties.substackUrl} target="_blank" rel="noopener noreferrer">
-            <button className="readmorebutton">
+            <button>
               Read more from this blog on {feedData?.rss?.channel?.generator}
             </button>
           </a>
