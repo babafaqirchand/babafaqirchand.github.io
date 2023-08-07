@@ -1,11 +1,20 @@
 [ 
     {
-      "title": "The True Path of Being Human",
+      "title": "The True Path of Being Human (Sat Manav Dharam)",
       "author": "Baba Faqir Chand",
       "description" : "This book is considered the magnum opus of Baba Faqir Chand's teachings for humanity and his vision of spiritual humanism. If you read no other book by Baba Faqir, read this book! We'll make every effort to translate this book into English as well.",
       "detail_page_url": "https://archive.org/details/true-human-religion",
       "cover_url": "images/books/TheTruePathofBeingHuman.jpg",
       "pdf_url": "https://archive.org/download/true-human-religion/True%20Human%20Religion.pdf",
+      "language": "Hindi"
+    },
+      {
+      "title": "Faqir Sandesh: The Message of Faqir",
+      "author": "Baba Faqir Chand",
+      "description" : "A collection of essential discourses by Baba Faqir Chand",
+      "detail_page_url": "https://archive.org/details/faqir-sandesh",
+      "cover_url": "images/books/FaqirSandesh.jpg",
+      "pdf_url": "https://archive.org/download/faqir-sandesh/Faqir%20Satsang%20-combined.pdf",
       "language": "Hindi"
     },
     {
@@ -178,16 +187,8 @@
       "cover_url": "images/books/DayalSandesh.jpg",
       "pdf_url": "https://archive.org/download/dayal-sandesh-book-two-atmik-utkarsh-maharishi-shiv/Dayal%20Sandesh%20Book%20Two%20-%20Atmik%20Utkarsh%20-%20Maharishi%20Shiv%20.pdf",
       "language": "Hindi"
-    },
-    {
-      "title": "Faqir Sandesh: The Message of Faqir",
-      "author": "Baba Faqir Chand",
-      "description" : "A collection of essential discourses by Baba Faqir Chand",
-      "detail_page_url": "https://archive.org/details/faqir-sandesh",
-      "cover_url": "images/books/FaqirSandesh.jpg",
-      "pdf_url": "https://archive.org/download/faqir-sandesh/Faqir%20Satsang%20-combined.pdf",
-      "language": "Hindi"
     }
+  
 
 
   ]
