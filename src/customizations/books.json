@@ -16,6 +16,15 @@
       "cover_url": "images/books/FaqirSandesh.jpg",
       "pdf_url": "https://archive.org/download/faqir-sandesh/Faqir%20Satsang%20-combined.pdf",
       "language": "Hindi"
+     },
+     {
+      "title": "Faqir on Kabir",
+      "author": "Baba Faqir Chand",
+      "description" : "This book is a compilation of Baba Faqir Chand's discourses on select poems of Kabir based on his experience. Kabir's poetry is complex and often hides his sublime teachings. Baba Faqir Chand shares his experiences and insights in the light of these poems and in the process Kabir's hidden meaning is revealed in a direct way.",
+      "detail_page_url": "https://archive.org/details/KABIRBOOK1BABAFAQIR",
+      "cover_url": "images/books/FaqironKabirCover.jpg",
+      "pdf_url": "https://archive.org/download/KABIRBOOK1BABAFAQIR/KABIR%20BOOK%201%20-%20BABA%20FAQIR.pdf",
+      "language": "Hindi"
     },
     {
       "title": "Riddles of Kabir",
@@ -24,15 +33,6 @@
       "detail_page_url": "https://archive.org/details/KABIRBOOK2BABAFAQIR",
       "cover_url": "images/books/RiddlesofKabirCover.jpg",
       "pdf_url": "https://archive.org/download/KABIRBOOK2BABAFAQIR/KABIR%20BOOK%202%20-%20BABA%20FAQIR.pdf",
-      "language": "Hindi"
-    },
-    {
-      "title": "Faqir on Kabir",
-      "author": "Baba Faqir Chand",
-      "description" : "This book is a compilation of Baba Faqir Chand's discourses on select poems of Kabir based on his experience. Kabir's poetry is complex and often hides his sublime teachings. Baba Faqir Chand shares his experiences and insights in the light of these poems and in the process Kabir's hidden meaning is revealed in a direct way.",
-      "detail_page_url": "https://archive.org/details/KABIRBOOK1BABAFAQIR",
-      "cover_url": "images/books/FaqironKabirCover.jpg",
-      "pdf_url": "https://archive.org/download/KABIRBOOK1BABAFAQIR/KABIR%20BOOK%201%20-%20BABA%20FAQIR.pdf",
       "language": "Hindi"
     },
     {
