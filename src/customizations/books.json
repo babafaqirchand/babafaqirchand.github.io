@@ -188,7 +188,15 @@
       "pdf_url": "https://archive.org/download/GURUUPDESHAMANAVDAYALSATSANG/GURU%20UPDESHA%20-%20MANAV%20DAYAL%20SATSANG.pdf",
       "language": "Hindi"
     },
-  
+      {
+      "title": "Faqir Bhagat: Spiritual Talks by Sant Munshi Ram Bhagat",
+      "author": "Sant Munshi Ram Bhagat",
+      "description" : "Spiritual talks by Sant Munshi Ram Bhagat, a dear and designated successor of Baba Faqir Chand",
+      "detail_page_url": "https://archive.org/details/sant-munshi-ram-bhagat",
+      "cover_url": "images/books/Bhagat.jpg",
+      "pdf_url": "https://archive.org/download/sant-munshi-ram-bhagat/Sant%20Munshi%20Ram%20Bhagat.pdf",
+      "language": "Hindi"
+    }
 
 
   ]
