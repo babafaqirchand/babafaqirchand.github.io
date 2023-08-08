@@ -205,6 +205,15 @@
       "cover_url": "images/books/Illuminations.jpg",
       "pdf_url": "https://drive.google.com/file/d/1GQ5VOCFll0lhVPHG965onfUgYVOfVzuW/view",
       "language": "English"
-}
+    },
+    {
+      "title": "The Secret of a Happy Life",
+      "author": "Sant Captain Lal Chand",
+      "description" : "Captain Lal Chand was a direct disciple of Baba Faqir Chand. He presents his own experience and lessons in a straightforward manner.",
+      "detail_page_url": "https://archive.org/details/the-secret-lal-chand-maharaj",
+      "cover_url": "images/books/SecretLal.jpg",
+      "pdf_url": "https://archive.org/download/the-secret-lal-chand-maharaj/TheSecret-LalChand.pdf",
+      "language": "English"
+    }
   ]
   
