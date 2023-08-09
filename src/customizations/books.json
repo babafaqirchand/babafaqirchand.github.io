@@ -214,6 +214,15 @@
       "cover_url": "images/books/SecretLal.jpg",
       "pdf_url": "https://archive.org/download/the-secret-lal-chand-maharaj/TheSecret-LalChand.pdf",
       "language": "English"
-    }
+    },
+    {
+      "title": "Spiritual Discourses of Brahm Shankar Misra (Maharaj Saheb)",
+      "author": "Brahm Shankar Misra",
+      "description" : "Spiritual discourses of Radhaswami Mat by Maharaj Brahm Shankar Misra, a direct disciple of Huzur Rai Bahadur Saligram Maharaj.",
+      "detail_page_url": "https://archive.org/details/discourses-maharaj-saheb",
+      "cover_url": "images/books/Brahm.jpg",
+      "pdf_url": "https://archive.org/download/discourses-maharaj-saheb/Discourses_Maharaj_Saheb-1.pdf",
+      "language": "English"
+}
   ]
   
