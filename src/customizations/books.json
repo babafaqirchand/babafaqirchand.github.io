@@ -214,6 +214,16 @@
       "cover_url": "images/books/SecretLal.jpg",
       "pdf_url": "https://archive.org/download/the-secret-lal-chand-maharaj/TheSecret-LalChand.pdf",
       "language": "English"
+    },
+    {
+      "title": "The Way Out Is IN: Inner Sound Current Voyage",
+      "author": "Swami Ram Bihari Lal",
+      "description" : "Description (theoretical) of Radhaswami cosmology by a disciple of Swami Garib Das who was a disciple of Radhaswami Dayal.",
+      "detail_page_url": "https://archive.org/details/wayoutisin",
+      "cover_url": "images/books/SwamiRam.jpg",
+      "pdf_url": "https://archive.org/download/wayoutisin/wayoutisin9.pdf",
+      "language": "English"
     }
+
   ]
   
