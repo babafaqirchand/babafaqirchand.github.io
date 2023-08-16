@@ -44,7 +44,16 @@
       "pdf_url": "https://archive.org/download/twelve-months-final-merged/Twelve%20months%20final_merged.pdf",
       "language": "Hindi"
     },
-        {
+    {
+      "title": "The Secret of Creation",
+      "author": "Baba Faqir Chand",
+      "description" : "Specific talks on creation",
+      "detail_page_url": "https://archive.org/details/the-secret-of-creation",
+      "cover_url": "images/books/Creation.jpg",
+      "pdf_url": "https://archive.org/download/the-secret-of-creation/The%20Secret%20of%20Creation.pdf",
+      "language": "Hindi"
+    },
+    {
       "title": "Faqir Bhagat: Spiritual Talks by Sant Munshi Ram Bhagat",
       "author": "Sant Munshi Ram Bhagat",
       "description" : "Spiritual talks by Sant Munshi Ram Bhagat, a dear and designated successor of Baba Faqir Chand",
