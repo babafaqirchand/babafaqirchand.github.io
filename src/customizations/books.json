@@ -232,6 +232,15 @@
       "cover_url": "images/books/SwamiRam.jpg",
       "pdf_url": "https://archive.org/download/wayoutisin/wayoutisin9.pdf",
       "language": "English"
+    },
+    {
+      "title": "The Unknowing Sage: The Life and Work of Faqir Chand",
+      "author": "Baba Faqir Chand",
+      "description" : "The Life and Work of Faqir Chand",
+      "detail_page_url": "https://archive.org/details/the-unknowing-sage",
+      "cover_url": "images/books/Unknowing.jpg",
+      "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
+      "language": "English"
     }
 
   ]
