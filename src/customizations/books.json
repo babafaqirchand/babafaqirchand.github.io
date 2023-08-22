@@ -241,6 +241,15 @@
       "cover_url": "images/books/Unknowing.jpg",
       "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
       "language": "English"
+    },
+    {
+      "title": "Sant Sangrah",
+      "author": "Huzur Rai Saligram Maharaj",
+      "description" : "A collection of poetry by various saints of India. Both Part I and II are included.",
+      "detail_page_url": "https://archive.org/details/sant-sangrah",
+      "cover_url": "images/books/Sangrah.jpg",
+      "pdf_url": "https://archive.org/download/sant-sangrah/Sant-Sangrah-combined.pdf",
+      "language": "Hindi"
     }
 
   ]
