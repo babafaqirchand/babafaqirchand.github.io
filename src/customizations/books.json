@@ -250,6 +250,15 @@
       "cover_url": "images/books/Sangrah.jpg",
       "pdf_url": "https://archive.org/download/sant-sangrah/Sant-Sangrah-combined.pdf",
       "language": "Hindi"
+    },
+    {
+      "title": "Shabd Yoga: Esoterica From The East",
+      "author": "Dr. David Christopher Lane",
+      "description" : "An introduction of Shabd Yoga through original Yogic writings",
+      "detail_page_url": "https://sites.google.com/view/themasterlist/home",
+      "cover_url": "images/books/Shabdyogacover.jpg",
+      "pdf_url": "https://drive.google.com/file/d/1WLVrlamu9lI0tiUxgc-3scqZyuz2042t/view",
+      "language": "English"
     }
 
   ]
