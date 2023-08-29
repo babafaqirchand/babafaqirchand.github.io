@@ -259,7 +259,16 @@
       "cover_url": "images/books/shabdyogacover.jpg",
       "pdf_url": "https://drive.google.com/file/d/1WLVrlamu9lI0tiUxgc-3scqZyuz2042t/view",
       "language": "English"
-    }
+    }, 
+    {
+      "title": "Beyond The Limitless",
+      "author": "Baba Faqir Chand",
+      "description" : "The secrets of our existence revealed in the limited and the limitless by Baba Faqir Chand",
+      "detail_page_url": "https://archive.org/details/beyond-the-limitless",
+      "cover_url": "images/books/limitless.jpg",
+      "pdf_url": "https://archive.org/download/beyond-the-limitless/Limitless.pdf",
+      "language": "Hindi"
+}
 
   ]
   
