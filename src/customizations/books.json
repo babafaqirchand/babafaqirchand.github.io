@@ -1,11 +1,29 @@
 [ 
     {
-      "title": "The True Path of Being Human",
+      "title": "The True Path of Being Human (Sat Manav Dharam)",
       "author": "Baba Faqir Chand",
       "description" : "This book is considered the magnum opus of Baba Faqir Chand's teachings for humanity and his vision of spiritual humanism. If you read no other book by Baba Faqir, read this book! We'll make every effort to translate this book into English as well.",
       "detail_page_url": "https://archive.org/details/true-human-religion",
       "cover_url": "images/books/TheTruePathofBeingHuman.jpg",
       "pdf_url": "https://archive.org/download/true-human-religion/True%20Human%20Religion.pdf",
+      "language": "Hindi"
+    },
+      {
+      "title": "Faqir Sandesh: The Message of Faqir",
+      "author": "Baba Faqir Chand",
+      "description" : "A collection of essential discourses or talks (Satsang) by Baba Faqir Chand",
+      "detail_page_url": "https://archive.org/details/faqir-sandesh",
+      "cover_url": "images/books/FaqirSandesh.jpg",
+      "pdf_url": "https://archive.org/download/faqir-sandesh/Faqir%20Satsang%20-combined.pdf",
+      "language": "Hindi"
+     },
+     {
+      "title": "Faqir on Kabir",
+      "author": "Baba Faqir Chand",
+      "description" : "This book is a compilation of Baba Faqir Chand's discourses on select poems of Kabir based on his experience. Kabir's poetry is complex and often hides his sublime teachings. Baba Faqir Chand shares his experiences and insights in the light of these poems and in the process Kabir's hidden meaning is revealed in a direct way.",
+      "detail_page_url": "https://archive.org/details/KABIRBOOK1BABAFAQIR",
+      "cover_url": "images/books/FaqironKabirCover.jpg",
+      "pdf_url": "https://archive.org/download/KABIRBOOK1BABAFAQIR/KABIR%20BOOK%201%20-%20BABA%20FAQIR.pdf",
       "language": "Hindi"
     },
     {
@@ -18,15 +36,6 @@
       "language": "Hindi"
     },
     {
-      "title": "Faqir on Kabir",
-      "author": "Baba Faqir Chand",
-      "description" : "This book is a compilation of Baba Faqir Chand's discourses on select poems of Kabir based on his experience. Kabir's poetry is complex and often hides his sublime teachings. Baba Faqir Chand shares his experiences and insights in the light of these poems and in the process Kabir's hidden meaning is revealed in a direct way.",
-      "detail_page_url": "https://archive.org/details/KABIRBOOK1BABAFAQIR",
-      "cover_url": "images/books/FaqironKabirCover.jpg",
-      "pdf_url": "https://archive.org/download/KABIRBOOK1BABAFAQIR/KABIR%20BOOK%201%20-%20BABA%20FAQIR.pdf",
-      "language": "Hindi"
-    },
-    {
       "title": "Twelve Months (Barah Masa): A Spiritual Commentary",
       "author": "Baba Faqir Chand",
       "description" : "Barah Masa, which translates to 'Twelve Months', is an ancient poetic form used by mystics of India and Persia. The Barah Masa hymns are not mere descriptions of the changing seasons but also carry deeper spiritual messages. Radhaswami Shiv Dayal also composed Barah Masa to express his spiritual message. This book is the first known commentary of this mystical work. Baba Faqir Chand clarifies the meaning of Radhaswami Dayal's poetry on the basis of his own experiences and insights.",
@@ -36,21 +45,30 @@
       "language": "Hindi"
     },
     {
+      "title": "The Secret of Creation",
+      "author": "Baba Faqir Chand",
+      "description" : "Specific talks on creation",
+      "detail_page_url": "https://archive.org/details/the-secret-of-creation",
+      "cover_url": "images/books/Creation.jpg",
+      "pdf_url": "https://archive.org/download/the-secret-of-creation/The%20Secret%20of%20Creation.pdf",
+      "language": "Hindi"
+    },
+    {
+      "title": "Faqir Bhagat: Spiritual Talks by Sant Munshi Ram Bhagat",
+      "author": "Sant Munshi Ram Bhagat",
+      "description" : "Spiritual talks by Sant Munshi Ram Bhagat, a dear and designated successor of Baba Faqir Chand",
+      "detail_page_url": "https://archive.org/details/sant-munshi-ram-bhagat",
+      "cover_url": "images/books/Bhagat.jpg",
+      "pdf_url": "https://archive.org/download/sant-munshi-ram-bhagat/Sant%20Munshi%20Ram%20Bhagat.pdf",
+      "language": "Hindi"
+    },
+    {
       "title": "RadhaSwami Yog",
       "author": "Maharishi Shiv Brat Lal Verman",
       "description" : "RadhaSwami Yog written by Data Dayal Maharishi Shiv Brat Lal Verman has the complete spiritual and philosophical teachings of the path of saints and mystics as revealed by Radhaswami Dayal. This title was originally published in 6 volumes. This is a facsimile of all 6 volumes in one place.",
       "detail_page_url": "https://archive.org/details/radhaswami-yog",
       "cover_url": "images/books/RadhaswamiYog.jpg",
       "pdf_url": "https://archive.org/download/radhaswami-yog/Radhaswami%20Yog%20%28Cover%2BComplete%29.pdf",
-      "language": "Hindi"
-    },
-    {
-      "title": "Spiritual Discourses of Manav Dayal",
-      "author": "Manav Dayal Dr. Ishwar Chandra Sharma",
-      "description" : "A collection of spiritual talks (Satsang) by Manav Dayal Dr. I.C. Sharma, a philosopher-saint, and one of the chief disciples and successors of Baba Faqir Chand",
-      "detail_page_url": "https://archive.org/details/GURUUPDESHAMANAVDAYALSATSANG/",
-      "cover_url": "images/books/SpiritualManav.jpg",
-      "pdf_url": "https://archive.org/download/GURUUPDESHAMANAVDAYALSATSANG/GURU%20UPDESHA%20-%20MANAV%20DAYAL%20SATSANG.pdf",
       "language": "Hindi"
     },
     {
@@ -108,6 +126,15 @@
       "language": "Hindi"
     },
     {
+      "title": "The Essence of Spiritual Experience (Anubhav Saar)",
+      "author": "Kuber Nath Srivastav, Maharishi Shiv Brat Lal Verman, Baba Faqir Chand",
+      "description" : "Anubhav Sar means the essence of experience. This book is a compilation of pithy spiritual sayings of Param Dayal Baba Faqir Chand, Maharishi Shiv Brat Lal Verman and Sant Kuber Nath Srivastav summarizing some key elements of their spiritual experience. Forward to the work is written by Baba Faqir Chand.",
+      "detail_page_url": "https://archive.org/details/anubhav-saar/",
+      "cover_url": "images/books/AnubhavSar.jpg",
+      "pdf_url": "https://archive.org/download/anubhav-saar/Anubhav%20Saar.pdf",
+      "language": "Hindi"
+    },
+    {
       "title": "Sri Advait Siddhant (The Principles of Non-Dualism)",
       "author": "Swami Hemraj Chidakashi",
       "description" : "This rare book delves into the philosophy of non-dualism or Advaita, presenting the teachings and experience of Swami Hemraj Chidakashi, a sage of light. It also includes Swami Hemraj's perspective and guidance on the various practical challenges of daily life. He has a balanced view and encourages a balanced and peaceful life. In Advaita, the ultimate reality is considered to be one undivided, infinite, and unchanging reality, and realizing this oneness is the goal of spiritual enlightenment. In Advaita, all apparent dualities in the world, including the perceived distinction and separation between the individual consciousness (Atman) and the universal consciousness (Param-Atman), are considered illusory or false.",
@@ -117,7 +144,7 @@
       "language": "Hindi"
     },
      {
-      "title": "Dayal Sandesh",
+      "title": "Dayal Sandesh (Book One)",
       "author": "Maharishi Shiv Brat Lal Verman",
       "description" : "Select excerpts from the writings of Maharishi Shiv Brat Lal Verman",
       "detail_page_url": "https://archive.org/details/dayal-sandesh",
@@ -153,30 +180,93 @@
       "language": "Hindi"
     },
     {
-      "title": "The Essence of Spiritual Experience (Anubhav Saar)",
-      "author": "Kuber Nath Srivastav, Maharishi Shiv Brat Lal Verman, Baba Faqir Chand",
-      "description" : "Anubhav Sar means the essence of experience. This book is a compilation of pithy spiritual sayings of Param Dayal Baba Faqir Chand, Maharishi Shiv Brat Lal Verman and Sant Kuber Nath Srivastav summarizing some key elements of their spiritual experience. Forward to the work is written by Baba Faqir Chand.",
-      "detail_page_url": "https://archive.org/details/anubhav-saar/",
-      "cover_url": "images/books/AnubhavSar.jpg",
-      "pdf_url": "https://archive.org/download/anubhav-saar/Anubhav%20Saar.pdf",
-      "language": "Hindi"
-    },
-    {
       "title": "Light On Anand Yog",
       "author": "Maharishi Shiv Brat Lal Verman",
       "description" : "This is the original translation to English of this popular book by Maharishi Shiv.",
-      "detail_page_url": "https://archive.org/details/light-on-ananda-yoga-organized",
+      "detail_page_url": "https://archive.org/details/LightOnTheAnadYog/page/n27/mode/2up",
       "cover_url": "images/books/AnandYog.jpg",
-      "pdf_url": "https://archive.org/download/light-on-ananda-yoga-organized/LightOnAnandaYoga_ORIGINAL_organized.pdf",
+      "pdf_url": "https://archive.org/download/LightOnTheAnadYog/Light-on-the-Anad-Yog.pdf",
       "language": "English"
     },
     {
-      "title": "Spiritual Growth (Atmik Utkarsh)",
+      "title": "Dayal Sandesh: Spiritual Growth (Book Two)",
       "author": "Maharishi Shiv Brat Lal Verman",
       "description" : "Maharishi encourages us to see ourselves in the true light and live a fulfilled and wholesome life.",
-      "detail_page_url": "https://archive.org/details/atmik-utkarsh-maharishi-shiv",
-      "cover_url": "images/books/SpiritualGrowth.jpg",
-      "pdf_url": "https://archive.org/download/atmik-utkarsh-maharishi-shiv/Atmik%20Utkarsh%20-%20Maharishi%20Shiv%20.pdf",
+      "detail_page_url": "https://archive.org/details/dayal-sandesh-book-two-atmik-utkarsh-maharishi-shiv",
+      "cover_url": "images/books/DayalSandesh.jpg",
+      "pdf_url": "https://archive.org/download/dayal-sandesh-book-two-atmik-utkarsh-maharishi-shiv/Dayal%20Sandesh%20Book%20Two%20-%20Atmik%20Utkarsh%20-%20Maharishi%20Shiv%20.pdf",
+      "language": "Hindi"
+    },
+    {
+      "title": "Spiritual Discourses of Manav Dayal",
+      "author": "Dr. Ishwar Chandra Sharma",
+      "description" : "A collection of spiritual talks (Satsang) by Manav Dayal Dr. I.C. Sharma",
+      "detail_page_url": "https://archive.org/details/GURUUPDESHAMANAVDAYALSATSANG/",
+      "cover_url": "images/books/SpiritualManav.jpg",
+      "pdf_url": "https://archive.org/download/GURUUPDESHAMANAVDAYALSATSANG/GURU%20UPDESHA%20-%20MANAV%20DAYAL%20SATSANG.pdf",
+      "language": "Hindi"
+    },
+    {
+      "title": "Baba Faqir Chand's Illuminations: The London Satsang 1980",
+      "author": "Baba Faqir Chand",
+      "description" : "This book is an English translation of spiritual talks by Baba Faqir Chand given to Harjit Singh Sandhu in London, 1980",
+      "detail_page_url": "https://sites.google.com/site/babafaqirchandbooks/home",
+      "cover_url": "images/books/Illuminations.jpg",
+      "pdf_url": "https://drive.google.com/file/d/1GQ5VOCFll0lhVPHG965onfUgYVOfVzuW/view",
+      "language": "English"
+    },
+    {
+      "title": "The Secret of a Happy Life",
+      "author": "Sant Captain Lal Chand",
+      "description" : "Captain Lal Chand was a direct disciple of Baba Faqir Chand who shares his experience succintly in this booklet. (Published in India; it needs editing)",
+      "detail_page_url": "https://archive.org/details/the-secret-lal-chand-maharaj",
+      "cover_url": "images/books/SecretLal.jpg",
+      "pdf_url": "https://archive.org/download/the-secret-lal-chand-maharaj/TheSecret-LalChand.pdf",
+      "language": "English"
+    },
+    {
+      "title": "The Way Out Is IN: Inner Sound Current Voyage",
+      "author": "Swami Ram Bihari Lal",
+      "description" : "Description (theoretical) of Radhaswami cosmology by a disciple of Swami Garib Das who was a disciple of Radhaswami Dayal.",
+      "detail_page_url": "https://archive.org/details/wayoutisin",
+      "cover_url": "images/books/SwamiRam.jpg",
+      "pdf_url": "https://archive.org/download/wayoutisin/wayoutisin9.pdf",
+      "language": "English"
+    },
+    {
+      "title": "The Unknowing Sage: The Life and Work of Faqir Chand",
+      "author": "Baba Faqir Chand",
+      "description" : "The Life and Work of Faqir Chand",
+      "detail_page_url": "https://archive.org/details/the-unknowing-sage",
+      "cover_url": "images/books/Unknowing.jpg",
+      "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
+      "language": "English"
+    },
+    {
+      "title": "Sant Sangrah",
+      "author": "Huzur Rai Saligram Maharaj",
+      "description" : "A collection of poetry by various saints of India. Both Part I and II are included.",
+      "detail_page_url": "https://archive.org/details/sant-sangrah",
+      "cover_url": "images/books/Sangrah.jpg",
+      "pdf_url": "https://archive.org/download/sant-sangrah/Sant-Sangrah-combined.pdf",
+      "language": "Hindi"
+    },
+    {
+      "title": "Shabd Yoga: Esoterica From The East",
+      "author": "Dr. David Christopher Lane",
+      "description" : "An introduction of Shabd Yoga through original Yogic writings",
+      "detail_page_url": "https://sites.google.com/view/themasterlist/home",
+      "cover_url": "images/books/shabdyogacover.jpg",
+      "pdf_url": "https://drive.google.com/file/d/1WLVrlamu9lI0tiUxgc-3scqZyuz2042t/view",
+      "language": "English"
+    }, 
+    {
+      "title": "Beyond The Limitless",
+      "author": "Baba Faqir Chand",
+      "description" : "The secrets of our existence revealed in the limited and the limitless by Baba Faqir Chand",
+      "detail_page_url": "https://archive.org/details/beyond-the-limitless",
+      "cover_url": "images/books/limitless.jpg",
+      "pdf_url": "https://archive.org/download/beyond-the-limitless/Limitless.pdf",
       "language": "Hindi"
 }
 
