@@ -13,35 +13,22 @@ const BlogFeed: React.FC = () => {
     <section id="blog">
         <div className="sectioncontainer">
         <div className="headercontainer">
-          <h1>{feedData?.rss?.channel?.title}</h1>
+          <h1>{feedData?.title}</h1>
           <h2>Recent Posts</h2>
         </div>
         <div className="contentcontainer">
           <div className="textcontainer">
-          {Array.isArray(feedData?.rss?.channel?.item)
-          ? feedData?.rss?.channel?.item.slice(0, 5).map((item, index) => (
-              <div key={index} className="blogtext mb-16 lg:md-24">
-                <Link to={item.link} className="text-xl font-bold">
-                  Read this post on {feedData.rss.channel.generator}
-                </Link>
-                <h1 dangerouslySetInnerHTML={{ __html: item.title}} />
-                <h2 dangerouslySetInnerHTML={{ __html: item.description}} />
-                <div dangerouslySetInnerHTML={{ __html: item['content:encoded'] }} />
-              </div>
-            ))
-          : [
-              <div key={0} className="blogtext mb-16 lg:md-24">
-                <Link to={feedData?.rss?.channel?.item.link} className="text-xl font-bold">
-                  Read this post on {feedData?.rss?.channel?.generator}
-                </Link>
-                <h1 dangerouslySetInnerHTML={{ __html: feedData?.rss?.channel?.item.title }} />
-                <h2 dangerouslySetInnerHTML={{ __html: feedData?.rss?.channel?.item.description }} />
-                <div dangerouslySetInnerHTML={{ __html: feedData?.rss?.channel?.item['content:encoded'] }} />
-              </div>,
-            ]}
+          {feedData?.entries.slice(0, 5).map((entry, index) => (
+            <div key={index} className="blogtext mb-16 lg:md-24">
+              <Link to={entry.link} className="text-xl font-bold">Read this post on {feedData.generator}</Link>
+              <h1 dangerouslySetInnerHTML={{ __html: entry.title}} />
+              <h2 dangerouslySetInnerHTML={{ __html: entry.description}} />
+              <div dangerouslySetInnerHTML={{ __html: entry['content:encoded'] }} />
+            </div>
+          ))}
           <a href={properties.substackUrl} target="_blank" rel="noopener noreferrer">
             <button>
-              Read more from this blog on {feedData?.rss?.channel?.generator}
+              Read more from this blog on {feedData?.generator}
             </button>
           </a>
           </div>
