@@ -269,6 +269,24 @@
       "pdf_url": "https://archive.org/download/beyond-the-limitless/Limitless.pdf",
       "language": "Hindi"
 }
+{
+      "title": "Self-Realization or Atam Gyan",
+      "author": "Baba Faqir Chand",
+      "description" : "Book on self-realization, translated to English by B.R. Kamal",
+      "detail_page_url": "https://archive.org/details/atam-gyan",
+      "cover_url": "images/books/Atam.jpg",
+      "pdf_url": "https://archive.org/download/atam-gyan/Atam%20Gyan.pdf",
+      "language": "English"
+}
 
+    {
+      "title": "Liberation in Life or Jeevan Mukti",
+      "author": "Baba Faqir Chand",
+      "description" : "A book on liberation of Self, edited by Harjit Singh Sandhu, London",
+      "detail_page_url": "https://archive.org/details/jeevan-mukti",
+      "cover_url": "images/books/Mukti.jpg",
+      "pdf_url": "https://archive.org/download/jeevan-mukti/Jeevan%20Mukti.pdf",
+      "language": "English"
+}
   ]
   
