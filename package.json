@@ -2,7 +2,7 @@
   "name": "behuman",
   "version": "0.1.0",
   "author": "Dayal Books",
-  "homepage": "https://babafaqirchand.github.io",
+  "homepage": "https://babafaqirchand.com",
   "scripts": {
     "dev": "vite",
     "setmetadata": "node scripts/setmetadata.mjs",
@@ -11,7 +11,7 @@
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "echo babafaqirchand.com > ./dist/CNAME && gh-pages -d dist"
   },
   "dependencies": {
     "@extractus/feed-extractor": "^7.0.6",
