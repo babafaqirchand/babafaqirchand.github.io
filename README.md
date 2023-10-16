@@ -37,7 +37,7 @@ Note that blog posts will get scraped every night at midnight or any time you ma
 If you want to use a custom domain instead of the default 'https://babafaqirchand.github.io', it's a bit complicated. Here's the rundown on what you need to do:
 
 1. Register a domain name with a domain manager like Godaddy or Domain.com. If you already have a domain you've been using for another website, restore the default DNS settings.
-2. Add the domain under your **user** "Settings > Pages" on Github. (Not to be confused with your **repo** "Settings > Pages"!)
+2. Add the domain under your **user** and/or **organization** "Settings > Pages" on Github. (Not to be confused with your **repo** "Settings > Pages"!)
 3. Follow Github's instructions to verify your domain. This will involve going back to your domain manager and creating a DNS record. Here's how I did that on the domain management service I used, Domain.com:
    - Click to "Manage" the domain.
    - Go to "Advanced > DNS & Nameservers" on the menu bar.
