@@ -286,6 +286,16 @@
       "cover_url": "images/books/Mukti.jpg",
       "pdf_url": "https://archive.org/download/jeevan-mukti/Jeevan%20Mukti.pdf",
       "language": "English"
+},
+    {
+      "title": "Sai Ki Mauj or The Desire or Whim of the Creator",
+      "author": "Baba Faqir Chand",
+      "description" : "On Creation of the body, mind, Atman (spirit), and Surat (true Self).",
+      "detail_page_url": "https://archive.org/details/mauj_20231016",
+      "cover_url": "images/books/Mauj.jpg",
+      "pdf_url": "https://archive.org/download/mauj_20231016/Sain%20Ki%20Mauj.pdf",
+      "language": "Hindi"
 }
+
   ]
   
