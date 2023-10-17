@@ -295,6 +295,24 @@
       "cover_url": "images/books/Unknowing.jpg",
       "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
       "language": "English"
+    },
+      {
+      "title": "Sar Bachan or Words of Truth - Poetry of RadhaSwami Shiv Dayal Maharaj (2 Volumes Combined)",
+      "author": "Swami Shiv Dayal Maharaj (RadhaSwami Dayal)",
+      "description" : "Spiritual message of Swami Ji Maharaj",
+      "detail_page_url": "https://archive.org/details/sar-bachan-poetry-combined",
+      "cover_url": "images/books/Swami.jpg",
+      "pdf_url": "https://archive.org/download/sar-bachan-poetry-combined/Sar-Bachan-poetry-combined.pdf",
+      "language": "Hindi"
+    },
+      {
+      "title": "Prem Patra or Love Letters RadhaSwami (All 6 Volumes)",
+      "author": "Huzur Rai Saligram Maharaj",
+      "description" : "Spiritual message of Rai Saligram Maharaj who started the RadhaSwami spiritual movement",
+      "detail_page_url": "https://archive.org/details/prem-patra-radhaswami-combined",
+      "cover_url": "images/books/Prem.jpg",
+      "pdf_url": "https://archive.org/download/prem-patra-radhaswami-combined/Prem-Patra-Radhaswami-combined.pdf",
+      "language": "Hindi"
     }
   ]
   
