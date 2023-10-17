@@ -8,7 +8,7 @@ Most customization is done from the `src/customizations` folder. This folder con
 
 For example, to change the text of the headers, you would edit the "title" and "subtitle" fields in `headers.json`. 
 
-Or to change the text or images in the biography sections, edit the "img" and "bio" fields in`biographies.json`. (Note that the "img" field should be the path to an image file in the `public` folder. You can add your own new images to this folder if you want to use them on the site.)
+Or to change the text or images in the biography sections, edit the "img" and "bio" fields in`biographies.json`. (Note that the "img" field should be the path to an image file in the `public` folder. You can add your own new images to this folder if you want to use them on the site.) You can use HTML text formatting tags in the biography text, including `<b></b>` for bold text, `<i></i>` for italics, `<u></u>` for underlines, or `<br/>` for line/paragraph breaks.
 
 To add new books, add a new object to the list in the `books.json` file. The new object must go inside the square brackets `[]` and must be separated from the other objects by a comma `,`. The new object must have the following fields:
 
