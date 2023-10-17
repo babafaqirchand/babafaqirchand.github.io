@@ -259,8 +259,8 @@
       "cover_url": "images/books/limitless.jpg",
       "pdf_url": "https://archive.org/download/beyond-the-limitless/Limitless.pdf",
       "language": "Hindi"
-},
-{
+    },
+    {
       "title": "Self-Realization or Atam Gyan",
       "author": "Baba Faqir Chand",
       "description" : "Book on self-realization, translated to English by B.R. Kamal, published by Harjit Singh Sandhu, London",
@@ -268,7 +268,7 @@
       "cover_url": "images/books/Atam.jpg",
       "pdf_url": "https://archive.org/download/atam-gyan/Atam%20Gyan.pdf",
       "language": "English"
-},
+    },
     {
       "title": "Liberation in Life or Jeevan Mukti",
       "author": "Baba Faqir Chand",
@@ -277,7 +277,7 @@
       "cover_url": "images/books/Mukti.jpg",
       "pdf_url": "https://archive.org/download/jeevan-mukti/Jeevan%20Mukti.pdf",
       "language": "English"
-},
+    },
     {
       "title": "Sai Ki Mauj (The Desire or Whim of the Creator)",
       "author": "Baba Faqir Chand",
@@ -286,7 +286,7 @@
       "cover_url": "images/books/Mauj.jpg",
       "pdf_url": "https://archive.org/download/mauj_20231016/Sain%20Ki%20Mauj.pdf",
       "language": "Hindi"
-},
+    },
      {
       "title": "The Unknowing Sage: The Life and Work of Faqir Chand",
       "author": "Baba Faqir Chand",
@@ -296,6 +296,5 @@
       "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
       "language": "English"
     },
-
   ]
   
