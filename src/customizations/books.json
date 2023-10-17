@@ -234,15 +234,6 @@
       "language": "English"
     },
     {
-      "title": "The Unknowing Sage: The Life and Work of Faqir Chand",
-      "author": "Baba Faqir Chand",
-      "description" : "The Life and Work of Faqir Chand",
-      "detail_page_url": "https://archive.org/details/the-unknowing-sage",
-      "cover_url": "images/books/Unknowing.jpg",
-      "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
-      "language": "English"
-    },
-    {
       "title": "Sant Sangrah",
       "author": "Huzur Rai Saligram Maharaj",
       "description" : "A collection of poetry by various saints of India. Both Part I and II are included.",
@@ -295,7 +286,16 @@
       "cover_url": "images/books/Mauj.jpg",
       "pdf_url": "https://archive.org/download/mauj_20231016/Sain%20Ki%20Mauj.pdf",
       "language": "Hindi"
-}
+},
+     {
+      "title": "The Unknowing Sage: The Life and Work of Faqir Chand",
+      "author": "Baba Faqir Chand",
+      "description" : "The Life and Work of Faqir Chand",
+      "detail_page_url": "https://archive.org/details/the-unknowing-sage",
+      "cover_url": "images/books/Unknowing.jpg",
+      "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
+      "language": "English"
+    },
 
   ]
   
