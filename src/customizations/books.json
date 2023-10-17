@@ -210,9 +210,9 @@
       "title": "Baba Faqir Chand's Illuminations: The London Satsang 1980",
       "author": "Baba Faqir Chand",
       "description" : "This book is an English translation of spiritual talks by Baba Faqir Chand given to Harjit Singh Sandhu in London, 1980",
-      "detail_page_url": "https://sites.google.com/site/babafaqirchandbooks/home",
+      "detail_page_url": "https://archive.org/details/faqirsilluminations",
       "cover_url": "images/books/Illuminations.jpg",
-      "pdf_url": "https://drive.google.com/file/d/1GQ5VOCFll0lhVPHG965onfUgYVOfVzuW/view",
+      "pdf_url": "https://archive.org/details/faqirsilluminations",
       "language": "English"
     },
     {
@@ -231,15 +231,6 @@
       "detail_page_url": "https://archive.org/details/wayoutisin",
       "cover_url": "images/books/SwamiRam.jpg",
       "pdf_url": "https://archive.org/download/wayoutisin/wayoutisin9.pdf",
-      "language": "English"
-    },
-    {
-      "title": "The Unknowing Sage: The Life and Work of Faqir Chand",
-      "author": "Baba Faqir Chand",
-      "description" : "The Life and Work of Faqir Chand",
-      "detail_page_url": "https://archive.org/details/the-unknowing-sage",
-      "cover_url": "images/books/Unknowing.jpg",
-      "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
       "language": "English"
     },
     {
@@ -268,8 +259,8 @@
       "cover_url": "images/books/limitless.jpg",
       "pdf_url": "https://archive.org/download/beyond-the-limitless/Limitless.pdf",
       "language": "Hindi"
-},
-{
+    },
+    {
       "title": "Self-Realization or Atam Gyan",
       "author": "Baba Faqir Chand",
       "description" : "Book on self-realization, translated to English by B.R. Kamal, published by Harjit Singh Sandhu, London",
@@ -277,7 +268,7 @@
       "cover_url": "images/books/Atam.jpg",
       "pdf_url": "https://archive.org/download/atam-gyan/Atam%20Gyan.pdf",
       "language": "English"
-},
+    },
     {
       "title": "Liberation in Life or Jeevan Mukti",
       "author": "Baba Faqir Chand",
@@ -286,7 +277,7 @@
       "cover_url": "images/books/Mukti.jpg",
       "pdf_url": "https://archive.org/download/jeevan-mukti/Jeevan%20Mukti.pdf",
       "language": "English"
-},
+    },
     {
       "title": "Sai Ki Mauj (The Desire or Whim of the Creator)",
       "author": "Baba Faqir Chand",
@@ -295,7 +286,33 @@
       "cover_url": "images/books/Mauj.jpg",
       "pdf_url": "https://archive.org/download/mauj_20231016/Sain%20Ki%20Mauj.pdf",
       "language": "Hindi"
-}
-
+    },
+     {
+      "title": "The Unknowing Sage: The Life and Work of Faqir Chand",
+      "author": "Baba Faqir Chand",
+      "description" : "The Life and Work of Faqir Chand",
+      "detail_page_url": "https://archive.org/details/the-unknowing-sage",
+      "cover_url": "images/books/Unknowing.jpg",
+      "pdf_url": "https://archive.org/download/the-unknowing-sage/FINALFAQIRBOOKwebversion3.pdf",
+      "language": "English"
+    },
+      {
+      "title": "Sar Bachan or Words of Truth - Poetry of RadhaSwami Shiv Dayal Maharaj (2 Volumes Combined)",
+      "author": "Swami Shiv Dayal Maharaj (RadhaSwami Dayal)",
+      "description" : "Spiritual message of Swami Ji Maharaj",
+      "detail_page_url": "https://archive.org/details/sar-bachan-poetry-combined",
+      "cover_url": "images/books/Swami.jpg",
+      "pdf_url": "https://archive.org/download/sar-bachan-poetry-combined/Sar-Bachan-poetry-combined.pdf",
+      "language": "Hindi"
+    },
+      {
+      "title": "Prem Patra or Love Letters RadhaSwami (All 6 Volumes)",
+      "author": "Huzur Rai Saligram Maharaj",
+      "description" : "Spiritual message of Rai Saligram Maharaj who started the RadhaSwami spiritual movement",
+      "detail_page_url": "https://archive.org/details/prem-patra-radhaswami-combined",
+      "cover_url": "images/books/Prem.jpg",
+      "pdf_url": "https://archive.org/download/prem-patra-radhaswami-combined/Prem-Patra-Radhaswami-combined.pdf",
+      "language": "Hindi"
+    }
   ]
   
