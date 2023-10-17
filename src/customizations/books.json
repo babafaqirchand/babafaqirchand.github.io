@@ -313,6 +313,15 @@
       "cover_url": "images/books/Prem.jpg",
       "pdf_url": "https://archive.org/download/prem-patra-radhaswami-combined/Prem-Patra-Radhaswami-combined.pdf",
       "language": "Hindi"
+    },
+     {
+      "title": "The State of No Worry (Befikri)",
+      "author": "Baba Faqir Chand",
+      "description" : "Spiritual experience and teachings on the state of no anxiety and worry.",
+      "detail_page_url": "https://archive.org/details/Befikri",
+      "cover_url": "images/books/NoWorry.jpg",
+      "pdf_url": "https://archive.org/download/Befikri/Befikri.pdf",
+      "language": "Hindi"
     }
   ]
   
