@@ -11,6 +11,6 @@
   "robots": {"index": true, "follow": true},
   "substackUrl" : "https://babafaqirchand.substack.com/",
   "socialProfiles": {},
-  "useCarousel": false
+  "useCarousel": true
 }
 
