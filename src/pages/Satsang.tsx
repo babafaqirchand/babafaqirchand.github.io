@@ -1,13 +1,14 @@
 import Section from '../components/ui/Section';
 import satsangData from '../customizations/satsang.json';
-import Video from '../components/ui/Video';
+import SatsangVideo from '../types/satsang';
+import Carousel from '../components/ui/Carousel';
 
 const Satsang: React.FC = () => {
+    const videos: SatsangVideo[] = satsangData;
+    
     return (
         <Section id='satsang'>
-            {satsangData.map((satsang, index) => (
-                <Video key={index} title={satsang.title} embed_url={satsang.embed_url} />
-            ))}
+            <Carousel videos={videos} />
         </Section>
     )
 };

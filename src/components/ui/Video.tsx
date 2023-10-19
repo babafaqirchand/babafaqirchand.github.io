@@ -1,11 +1,7 @@
 import './Video.css'
+import SatsangVideo from '../../types/satsang';
 
-interface VideoProps {
-    embed_url: string;
-    title: string;
-  }
-
-const Video: React.FC<VideoProps> = ({embed_url, title}) => {
+const Video: React.FC<SatsangVideo> = ({title, embed_url}) => {
 return(
     <div className="video-container">
         <h2 className="video-title">{title}</h2>

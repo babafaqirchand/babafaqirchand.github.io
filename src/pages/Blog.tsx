@@ -1,11 +1,12 @@
 import BlogFeed from '../components/ui/BlogFeed';
+import Section from '../components/ui/Section';
 
 const Blog: React.FC = () =>{
   return (
     <main id="skip">
-      <section id="blog">
+      <Section id="blog">
         <BlogFeed />
-      </section>
+      </Section>
     </main>
   )
 }

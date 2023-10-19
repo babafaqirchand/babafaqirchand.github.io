@@ -95,10 +95,6 @@ h2.footer-header {
   height: calc(100vh - 80px);
 }
 
-.headercontainer {
-  @apply mx-auto max-w-screen-sm text-center mb-4 lg:mb-12;
-}
-
 .contentcontainer {
   @apply flex justify-center rounded-xl mb-6 lg:mb-8;
 }
