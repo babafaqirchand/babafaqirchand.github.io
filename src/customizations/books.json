@@ -322,6 +322,24 @@
       "cover_url": "images/books/NoWorry.jpg",
       "pdf_url": "https://archive.org/download/Befikri/Befikri.pdf",
       "language": "Hindi"
+    },
+    {
+      "title": "The Secret of Garud Puran",
+      "author": "Baba Faqir Chand",
+      "description" : "Baba Faqir Chand explaining Garud Puran from a Sant Mat perspective and his experience.",
+      "detail_page_url": "https://archive.org/details/garud-puran-english",
+      "cover_url": "images/books/GarudEng.jpg",
+      "pdf_url": "https://archive.org/download/garud-puran-english/Garud-Puran-English.pdf",
+      "language": "English"
+    },
+     {
+      "title": "The Secret of Garud Puran",
+      "author": "Baba Faqir Chand",
+      "description" : "Baba Faqir Chand explaining Garud Puran from a Sant Mat perspective and his experience.",
+      "detail_page_url": "https://archive.org/details/garud-puran-rahasya",
+      "cover_url": "images/books/GarudHindi.jpg",
+      "pdf_url": "https://archive.org/download/garud-puran-rahasya/Garud-Puran-Rahasya.pdf",
+      "language": "Hindi"
     }
   ]
   
