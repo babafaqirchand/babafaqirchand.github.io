@@ -1,0 +1,14 @@
+.video-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-title {
+    margin-bottom: 20px;
+}
+
+.video-frame {
+    max-width: 100%;
+}
