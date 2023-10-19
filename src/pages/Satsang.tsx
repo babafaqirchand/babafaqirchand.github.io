@@ -8,7 +8,7 @@ const Satsang: React.FC = () => {
     
     return (
         <Section id='satsang'>
-            <Video embed_url={satsang.embed_url} />
+            <Video title={satsang.title} embed_url={satsang.embed_url} />
         </Section>
     )
 };
