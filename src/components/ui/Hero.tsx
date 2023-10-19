@@ -28,7 +28,7 @@ const Hero: React.FC<HeroProps> = ({ hero, title, subtitle }) => {
         <h1 className="text-6xl">{title}</h1>
         <h2 className="text-2xl">{subtitle}</h2>
         <div id="down-arrow">
-          <HashLink to="/#biographies">
+          <HashLink to="/#biography_0">
             <DownArrow />
           </HashLink>
         </div>

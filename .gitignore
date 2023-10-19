@@ -29,3 +29,4 @@ src/components/ui/RssFeed.json
 # Python
 .venv
 venv
+.aider*
