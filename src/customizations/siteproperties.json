@@ -10,6 +10,7 @@
   "favicon": "/images/favicon.ico",
   "robots": {"index": true, "follow": true},
   "substackUrl" : "https://babafaqirchand.substack.com/",
-  "socialProfiles": {}
+  "socialProfiles": {},
+  "useCarousel": true
 }
 

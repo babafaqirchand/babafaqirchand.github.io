@@ -19,6 +19,7 @@ interface SiteProperties {
     robots: Robots;
     substackUrl: string;
     socialProfiles: SocialProfiles;
+    useCarousel: boolean;
 }
 
 export default SiteProperties;
