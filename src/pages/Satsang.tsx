@@ -17,7 +17,9 @@ const Satsang: React.FC = () => {
                 <Carousel videos={videos} />
             ) : (
                 videos.map((video, index) => (
-                    <Video key={index} title={video.title} embed_url={video.embed_url} />
+                    <div className="mt-8 mb-8">
+                        <Video key={index} title={video.title} embed_url={video.embed_url} />
+                    </div>
                 ))
             )}
         </Section>
