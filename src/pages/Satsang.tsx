@@ -13,7 +13,13 @@ const Satsang: React.FC = () => {
     // If useCarousel, use Carousel component, else map videos to Video components
     return (
         <Section id='satsang'>
-            <Carousel videos={videos} />
+            {useCarousel ? (
+                <Carousel videos={videos} />
+            ) : (
+                videos.map((video, index) => (
+                    <Video key={index} title={video.title} embed_url={video.embed_url} />
+                ))
+            )}
         </Section>
     )
 };
