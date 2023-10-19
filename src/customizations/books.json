@@ -340,6 +340,15 @@
       "cover_url": "images/books/GarudHindi.jpg",
       "pdf_url": "https://archive.org/download/garud-puran-rahasya/Garud-Puran-Rahasya.pdf",
       "language": "Hindi"
+    },
+      {
+      "title": "The Gospel of Nanak in His Own Words",
+      "author": "Guru Nanak Dev",
+      "description" : "Guru Nanak's select hymns translated to English in 1969, highlighting his message.",
+      "detail_page_url": "https://archive.org/details/gospel-of-guru-nanak-in-his-own-words-1-removed",
+      "cover_url": "images/books/Nanak.jpg",
+      "pdf_url": "https://archive.org/download/gospel-of-guru-nanak-in-his-own-words-1-removed/Gospel%20of%20Guru%20Nanak%20In%20His%20Own%20Words-1_removed.pdf",
+      "language": "English"
     }
   ]
   
