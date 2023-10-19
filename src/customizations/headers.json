@@ -28,5 +28,10 @@
         "id" : "privacy",
         "title" : "Privacy policy",
         "subtitle" : "Important disclosures about how we use your data"
+    },
+    {
+        "id" : "satsang",
+        "title" : "Satsang",
+        "subtitle" : "Video and audio recordings of audiences with the gurus"
     }
 ]

@@ -7,6 +7,7 @@ import Home from './pages/Home.tsx'
 import Legal from './pages/Legal.tsx'
 import Blog from './pages/Blog.tsx'
 import Books from './pages/Books.tsx'
+import Satsang from './pages/Satsang.tsx'
 import './global.css'
 
 const App: React.FC = () => {
@@ -18,6 +19,7 @@ const App: React.FC = () => {
           <Route path="/" element={<Home />} />
           <Route path="/Blog" element={<Blog />} />
           <Route path="/Books" element={<Books />} />
+          <Route path="/Satsang" element={<Satsang />} />
           <Route path="/Legal" element={<Legal />} />
           <Route path="*" element={<h1>Not Found</h1>} />
       </Routes>

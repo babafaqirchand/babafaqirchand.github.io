@@ -23,6 +23,9 @@ const Footer: React.FC = () => {
                     <HashLink to="/Books#" className="footer-link">Books</HashLink>
                 </div>
                 <div className="flex justify-center">
+                    <HashLink to="/Satsang#" className="footer-link">Satsang</HashLink>
+                </div>
+                <div className="flex justify-center">
                     <HashLink to="/Legal#privacy" className="footer-link">Privacy Policy</HashLink>
                 </div>
               </div>

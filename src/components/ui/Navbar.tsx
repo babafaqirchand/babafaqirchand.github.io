@@ -18,6 +18,9 @@ const Navbar: React.FC = () => {
         <HashLink to="/Books#" className="nav-link focusable">
           Books
         </HashLink>
+        <HashLink to="/Satsang#" className="nav-link focusable">
+          Satsang
+        </HashLink>
       </div>
     </nav>
   );
