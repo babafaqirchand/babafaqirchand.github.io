@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useCallback } from 'react';
 import RssObject from '../../types/rssfeed';
 import { Link } from 'react-router-dom';
 import rssFeedJSON from './RssFeed.json';
@@ -13,10 +13,10 @@ const feedData: RssObject = rssFeedJSON as RssObject;
 const BlogFeed: React.FC = () => {
   const [displayedEntries, setDisplayedEntries] = useState(5);
 
-  const showMoreEntries = () => {
-    setDisplayedEntries(displayedEntries + 5);
-  };
-
+  const showMoreEntries = useCallback(() => {
+    setDisplayedEntries(prev => prev + 5);
+  }, []);
+  
   return (
     <div>
       <Header title={feedData?.title} subtitle="Recent Posts" />
