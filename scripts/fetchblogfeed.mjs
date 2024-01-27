@@ -11,6 +11,7 @@ const customHeaders = {
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
     "Cache-Control": "max-age=0",
+    "Cookie": "ab_testing_id=%22cb2f0b40-ebc2-4014-b839-a6f629c9998f%22; ajs_anonymous_id=%2254d4d15d-248d-4f2b-a7e5-322802067eba%22; ajs_anonymous_id=%2254d4d15d-248d-4f2b-a7e5-322802067eba%22; experiment_test_experiment_v4_run2=control; experiment_test_experiment_v4=control; _gcl_au=1.1.1257664747.1705374868; intro_popup_last_hidden_at=2024-01-16T03:14:29.634Z; __cf_bm=0Z6DjGYaH.HWyumsD4jN3txVo0YZpph9bxeUroqNrEc-1706368899-1-Abk6nDj46gludi1VbALZJumy1brHkVCIjscPYSytsjJQ6HLMXllZN4WSRXxu/O6KnsxVmejgsgytHa+2qbJTwVA=; visit_id=%7B%22id%22%3A%221de9beb9-b195-4023-a23f-7f55393be06a%22%2C%22timestamp%22%3A%222024-01-27T15%3A21%3A39.904Z%22%7D; AWSALBTG=Zy7zRf+7F1dVfHcj3X3vURpp/VTflh94eTeCa973p8Mhf2WLZFiBBk+wDsY/4MhxtIXTiLQEBhD6n+xNfqETvlhtjBOtUu57C03PJqz02bfLpYbBKjgnJIvUxMZcAADeTp7iVfxiekeKJRN1r0b/tFgz+1Mk/WVYlmMoeJG8uYYN; AWSALBTGCORS=Zy7zRf+7F1dVfHcj3X3vURpp/VTflh94eTeCa973p8Mhf2WLZFiBBk+wDsY/4MhxtIXTiLQEBhD6n+xNfqETvlhtjBOtUu57C03PJqz02bfLpYbBKjgnJIvUxMZcAADeTp7iVfxiekeKJRN1r0b/tFgz+1Mk/WVYlmMoeJG8uYYN; _dd_s=rum=0&expire=1706369800779",
     "If-None-Match": "W/\"10440-rG0SP/kJLlfEPzOgFwvF8vEAENQ\"",
     "Sec-Ch-Ua": "\"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\"",
     "Sec-Ch-Ua-Mobile": "?1",
