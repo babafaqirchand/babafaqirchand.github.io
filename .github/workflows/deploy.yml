@@ -23,20 +23,13 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      - name: Fetch RSS Feed
-        uses: Promptly-Technologies-LLC/rss-fetch-action@v1
-        with:
-          feed_url: https://babafaqirchand.substack.com/feed
-          file_path: ./src/components/ui/RssFeed.json
-          remove_last_build_date: true
-
       - name: Build
         run: npm run build
 
       - name: Commit and push changes to repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'Automated build/blog feed update'
+          commit_message: 'Automated build'
 
       - name: Get domain
         id: get-domain
